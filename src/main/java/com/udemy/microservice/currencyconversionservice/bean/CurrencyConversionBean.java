@@ -12,6 +12,8 @@ import lombok.NoArgsConstructor;
 
 //@Entity class
 //Testing changes for git
+// Testing for new Branch
+// Please ignore these lines
 public class CurrencyConversionBean {
 
 	private Long id;
