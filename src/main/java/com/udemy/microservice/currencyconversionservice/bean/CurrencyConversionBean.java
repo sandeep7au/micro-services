@@ -9,7 +9,9 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-//@Entity
+
+//@Entity class
+//Testing changes for git
 public class CurrencyConversionBean {
 
 	private Long id;
